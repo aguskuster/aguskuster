@@ -14,7 +14,7 @@ I am a backend developer who loves to work with different technologies and progr
 - LinkedIn: [aguskuster](https://www.linkedin.com/in/aguskuster/)
 
 
-## Anime :heart_eyes:
+## Anime 🌊
 - Currently Watching: Depends on the anime season 
 - All-time Favorite: Code Geass
 
