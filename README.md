@@ -11,7 +11,7 @@ I am a backend developer who loves to work with different technologies and progr
 
 ## Contact Me :email:
 - Email: akusterpiriz@gmail.com
-- LinkedIn: [Your LinkedIn Profile](link)
+- LinkedIn: [aguskuster](https://www.linkedin.com/in/aguskuster/)
 
 
 ## Anime :heart_eyes:
