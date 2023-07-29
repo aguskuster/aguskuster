@@ -11,7 +11,7 @@ I am a backend developer who loves to work with different technologies and progr
 [![GRAPHQL](https://img.shields.io/badge/GRAPHQL-ff69b4?style=for-the-badge&logo=GRAPHQL&logoColor=white&labelColor=101010)]()
 [![LARAVEL](https://img.shields.io/badge/LARAVEL-red?style=for-the-badge&logo=LARAVEL&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)]()
-
+[![PYTHON](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=PYTHON&logoColor=white&labelColor=101010)]()
 
 ## Contact Me :email:
 - Email: akusterpiriz@gmail.com
