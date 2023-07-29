@@ -17,6 +17,9 @@ I am a backend developer who loves to work with different technologies and progr
 
 
 ## Contact Me :email:
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=akusterpiriz@gmail.com" taget="_blank">
+  <img src="https://img.shields.io/badge/Send_Email-Drop_a_Mail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Send Email">
+</a>
 [![Email](https://img.shields.io/badge/Gmail-akusterpiriz@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/?view=cm&fs=1&to=akusterpiriz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustin_Kuster-44a3f1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/aguskuster/)
 
