@@ -3,15 +3,20 @@
 I am a backend developer who loves to work with different technologies and programming languages. My primary focus is on creating efficient and scalable web applications. I am also a big fan of anime and enjoy watching them in my free time.
 
 ## Skills :computer:
-- Proficient in PHP with knowledge of the Laravel Framework
-- Familiar with Node.js
-- Experience with popular web frameworks such as Express.js
-- Familiar with database management systems such as MySQL and MongoDB
-- Familiar with Docker for containerization and deployment
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
+[![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
+[![GRAPHQL](https://img.shields.io/badge/GRAPHQL-ff69b4?style=for-the-badge&logo=GRAPHQL&logoColor=white&labelColor=101010)]()
+[![LARAVEL](https://img.shields.io/badge/LARAVEL-red?style=for-the-badge&logo=LARAVEL&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)]()
+
 
 ## Contact Me :email:
 - Email: akusterpiriz@gmail.com
 - LinkedIn: [aguskuster](https://www.linkedin.com/in/aguskuster/)
+
 
 
 ## Anime 🌊
