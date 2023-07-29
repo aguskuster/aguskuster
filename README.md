@@ -15,12 +15,10 @@ I am a backend developer who loves to work with different technologies and progr
 [![PHP](https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)]()
 [![Pyhton](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=PYTHON&logoColor=white&labelColor=101010)]()
 
-## Contact Me :email:
-- Email: akusterpiriz@gmail.com
-- LinkedIn: [aguskuster](https://www.linkedin.com/in/aguskuster/)\
+
 ## Contact Me :email:
 [![Email](https://img.shields.io/badge/Gmail-akusterpiriz@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustin-Kuster-44a3f1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/aguskuster/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustin_Kuster-44a3f1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/aguskuster/)
 
 ## Anime 🌊
 - Currently Watching: Depends on the anime season 
