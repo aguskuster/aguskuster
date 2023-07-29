@@ -17,7 +17,7 @@ I am a backend developer who loves to work with different technologies and progr
 
 
 ## Contact Me :email:
-[![Email](https://img.shields.io/badge/Gmail-akusterpiriz@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()
+[![Email](https://img.shields.io/badge/Gmail-akusterpiriz@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:akusterpiriz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustin_Kuster-44a3f1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/aguskuster/)
 
 ## Anime 🌊
