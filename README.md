@@ -23,6 +23,6 @@ I am a backend developer who loves to work with different technologies and progr
 
 ## Anime 🌊
 - Currently Watching: Depends on the anime season 
-- All-time Favorite: Code Geass
+- All-time Favorite: Full Metal Alchemist 
 
 Thanks for visiting my profile! :smile:
